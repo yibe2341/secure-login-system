@@ -1,3 +1,4 @@
+
 # Secure Login System
 
 A PHP-based authentication system developed using PHP and MySQL.
@@ -19,6 +20,17 @@ A PHP-based authentication system developed using PHP and MySQL.
 - HTML
 - CSS
 - JavaScript
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Registration Page
+![Registration Page](screenshots/register.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ## Developer
 Yibeltal Kibemo
